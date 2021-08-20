@@ -10,4 +10,4 @@
 
 ◇ Host the website at 000webhost, github.io, heroku app or any  other free hosting provider. Check in code in gitlab.
 
-lIVE PREVIEW:-sparks-fortune-bank-system.netlify.app
+lIVE PREVIEW:- sparks-fortune-bank-system.netlify.app
